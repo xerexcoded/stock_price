@@ -1,4 +1,4 @@
-# Just a dumb script for getting stonks
+<h1 align="center">💸 Just a dumb script for getting stonks 💸<h1>
 <p align="center">
 <img src="https://media.giphy.com/media/lrsxqlQUDTL905Tp4K/giphy.gif?cid=ecf05e471mjmqrn7vtpbuttaok7et1ejwg804dlf4ag6pfq6&rid=giphy.gif&ct=g">
 </p>
