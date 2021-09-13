@@ -20,4 +20,5 @@ curl -o stock_price.sh https://github.com/xerexcoded/stock_price/blob/main/stock
 ```bash
 watch -n 10 -t -c ./stock_price.sh ORCL MSFT GOOG TSLA
 ```
-
+### GHUMAO :
+![](s.png)
