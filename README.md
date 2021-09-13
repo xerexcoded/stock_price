@@ -1,6 +1,6 @@
 # Just a dumb script for getting stonks
 
-## Hopefully if you want integrate this with your polybar/systray 
+#### Hopefully if you want integrate this with your polybar/systray 
 ### Requirements :
 * jq
 * watch
