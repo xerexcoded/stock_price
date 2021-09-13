@@ -1,5 +1,7 @@
 # Just a dumb script for getting stonks
-
+<p align="center">
+![](https://media.giphy.com/media/lrsxqlQUDTL905Tp4K/giphy.gif?cid=ecf05e471mjmqrn7vtpbuttaok7et1ejwg804dlf4ag6pfq6&rid=giphy.gif&ct=g)
+</p>
 #### Hopefully if you want integrate this with your polybar/systray 
 ### Requirements :
 * jq
